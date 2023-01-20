@@ -37,6 +37,7 @@ function NFTDropPage({ collection }: Props) {
 						<h1 className="text-4xl font-bold text-white">
 							{collection.nftCollectionName}
 						</h1>
+
 						<h2 className="text-xl text-gray-300">{collection.description}</h2>
 					</div>
 				</div>
