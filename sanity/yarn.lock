@@ -1531,7 +1531,7 @@
     get-random-values-esm "^1.0.0"
     lodash "^4.17.21"
 
-"@sanity/cli@3.2.4":
+"@sanity/cli@3.2.4", "@sanity/cli@^3.2.4":
   version "3.2.4"
   resolved "https://registry.yarnpkg.com/@sanity/cli/-/cli-3.2.4.tgz#c40d614efb481086c809cdd3628480b429e02ba6"
   integrity sha512-1Og2DSRCyyXZm0KwQVgs2cYwCp+z6jkEYy0RuEo75l0BCG2nZpF0Z8T7ALw+8EGTC/qzEaBFrWB158SoxK7gIg==
